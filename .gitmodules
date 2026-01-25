@@ -1,0 +1,3 @@
+[submodule "plugins/create-workflow"]
+	path = plugins/create-workflow
+	url = git@github.com:Zxela/claude-create.git
