@@ -6,13 +6,13 @@
   },
   "plugins": [
     {
-      "name": "create-workflow",
+      "name": "homerun",
       "description": "Orchestrated development workflow from idea to implementation",
       "version": "0.1.0",
       "author": {
         "name": "zxela"
       },
-      "source": "./plugins/create-workflow"
+      "source": "./plugins/homerun"
     }
   ]
 }
