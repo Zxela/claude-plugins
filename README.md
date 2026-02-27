@@ -12,7 +12,15 @@ Orchestrated development workflow from idea to implementation with native subage
 
 Plugins live as git submodules under `plugins/`. The `.claude-plugin/marketplace.json` file defines plugin metadata and versions for the marketplace.
 
-## Setup
+## Installation
+
+Install plugins directly in Claude Code:
+
+```
+/install-plugin Zxela/claude-plugins
+```
+
+## Development Setup
 
 ```sh
 git clone --recurse-submodules git@github.com:Zxela/claude-plugins.git
