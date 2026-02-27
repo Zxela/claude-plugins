@@ -14,10 +14,16 @@ Plugins live as git submodules under `plugins/`. The `.claude-plugin/marketplace
 
 ## Installation
 
-Install plugins directly in Claude Code:
+Add the marketplace in Claude Code:
 
 ```
-/install-plugin Zxela/claude-plugins
+/plugin marketplace add Zxela/claude-plugins
+```
+
+Then install individual plugins:
+
+```
+/plugin install homerun@zxela-claude-plugins
 ```
 
 ## Development Setup
