@@ -8,7 +8,7 @@
     {
       "name": "homerun",
       "description": "Orchestrated development workflow from idea to implementation with native subagents and Agent Teams",
-      "version": "5.7.0",
+      "version": "5.7.1",
       "author": {
         "name": "zxela"
       },
