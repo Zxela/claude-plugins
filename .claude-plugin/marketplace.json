@@ -15,6 +15,24 @@
       "source": "./plugins/homerun"
     },
     {
+      "name": "auto-research",
+      "description": "Autonomous improvement engine. Modify-verify-keep/discard loop against any mechanical metric.",
+      "version": "0.1.0",
+      "author": {
+        "name": "zxela"
+      },
+      "source": "./plugins/auto-research"
+    },
+    {
+      "name": "finance",
+      "description": "Stock market data, technical and fundamental analysis, strategy backtesting, and Alpaca paper trading.",
+      "version": "0.1.0",
+      "author": {
+        "name": "zxela"
+      },
+      "source": "./plugins/finance"
+    },
+    {
       "name": "auto-optimize",
       "description": "Use when the user wants to automatically iterate on a tunable input (file, prompt, config, or infra setting) by running a programmatic test that emits a metric and keeping mutations that improve it — phrasings like \"auto-optimize\", \"auto research\", \"tune this prompt\", \"find the best config\", \"load test and optimize X\", \"self-improve this skill\". The test can be anything scriptable: eval suite, load test, API call, accuracy benchmark. Mutates, measures, keeps the best, and stops on budget, target, or plateau.",
       "version": "0.2.0",

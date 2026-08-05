@@ -1,6 +1,12 @@
 [submodule "plugins/homerun"]
 	path = plugins/homerun
 	url = git@github.com:Zxela/claude-create.git
+[submodule "plugins/auto-research"]
+	path = plugins/auto-research
+	url = git@github.com:Zxela/auto-research.git
+[submodule "plugins/finance"]
+	path = plugins/finance
+	url = git@github.com:Zxela/finance-skills.git
 [submodule "plugins/auto-optimize"]
 	path = plugins/auto-optimize
 	url = https://github.com/Zxela/auto-optimize.git
