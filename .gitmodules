@@ -1,3 +1,6 @@
 [submodule "plugins/homerun"]
 	path = plugins/homerun
 	url = git@github.com:Zxela/claude-create.git
+[submodule "plugins/auto-optimize"]
+	path = plugins/auto-optimize
+	url = https://github.com/Zxela/auto-optimize.git

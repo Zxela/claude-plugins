@@ -13,6 +13,19 @@
         "name": "zxela"
       },
       "source": "./plugins/homerun"
+    },
+    {
+      "name": "auto-optimize",
+      "description": "Use when the user wants to automatically iterate on a tunable input (file, prompt, config, or infra setting) by running a programmatic test that emits a metric and keeping mutations that improve it — phrasings like \"auto-optimize\", \"auto research\", \"tune this prompt\", \"find the best config\", \"load test and optimize X\", \"self-improve this skill\". The test can be anything scriptable: eval suite, load test, API call, accuracy benchmark. Mutates, measures, keeps the best, and stops on budget, target, or plateau.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Paystone",
+        "url": "https://paystone.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "Zxela/auto-optimize"
+      }
     }
   ]
 }
