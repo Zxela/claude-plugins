@@ -26,7 +26,7 @@
     {
       "name": "finance",
       "description": "Stock market data, technical and fundamental analysis, strategy backtesting, and Alpaca paper trading.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "zxela"
       },
